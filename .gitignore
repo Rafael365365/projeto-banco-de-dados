@@ -1,0 +1,9 @@
+# Backups do MySQL Workbench
+*.mwb.bak
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos com informações sensíveis
+.env
